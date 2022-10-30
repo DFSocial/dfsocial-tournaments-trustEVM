@@ -10,6 +10,8 @@ This contract is not deployed and must be updated before its deployment. It requ
 
 # StakingDFSG_TrustEVM Smart Contract
 
+Stake $DFSG, earn $DFSG.
+
 This contract is not deployed and must be updated before its deployment. It requires the token address of $DFSG token in TrustEVM chain.
 
 - %APY = Current number of stakers
