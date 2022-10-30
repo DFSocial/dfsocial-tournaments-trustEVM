@@ -14,7 +14,7 @@ StakingDFSG_TrustEVM Smart Contract
 
 This contract is not deployed and must be updated before its deployment. It requires the token address of $DFSG token in TrustEVM chain.
 
-- %APY = Number of stakers
+- %APY = Current number of stakers
 - Min. amount to stake = 25,000 $DFSG
 - Lock period = 1 month
 - Claiming the rewards is available anytime.
