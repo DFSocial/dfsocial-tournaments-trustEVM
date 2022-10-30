@@ -1,6 +1,4 @@
-# dfsocial-tournaments-trustEVM
-
-SuperGaming Smart Contract
+# SuperGaming Smart Contract
 
 It allows the storage of the data (sponsors, gamers & scores) for all the tournaments organised inside DFSocial Gaming platform, as well as make posible all the payments (entries payments, rewards distribution, token burns, team fees, buybacks & liquidity additions).
 
@@ -10,7 +8,7 @@ This contract is not deployed and must be updated before its deployment. It requ
 - Get the current price of $DFSG
 
 
-StakingDFSG_TrustEVM Smart Contract
+# StakingDFSG_TrustEVM Smart Contract
 
 This contract is not deployed and must be updated before its deployment. It requires the token address of $DFSG token in TrustEVM chain.
 
