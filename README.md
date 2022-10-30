@@ -29,4 +29,4 @@ It requires the token address of $DFSG in TrustEVM Chain.
 - bDFS = $DFSG in BNB Chain
 - DFSG = $DFSG in TrustEVM CHain
 
-There is a 5% bonus for those bridging in a early phase.
+There is a 5% bonus for those users bridging in a early phase.
