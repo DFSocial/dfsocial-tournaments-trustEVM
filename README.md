@@ -21,7 +21,7 @@ This contract is not deployed and must be updated before its deployment. It requ
 
 # BridgeDFSG_TrustEVM Smart Contract
 
-Used to convert DFSG in BNB Chain to DFSG in TrustEVM Chain.
+Used to convert $DFSG in BNB Chain to $DFSG in TrustEVM Chain.
 
 This contract is not deployed and must be updated before its deployment. 
 It requires the token address of $DFSG in TrustEVM Chain.
