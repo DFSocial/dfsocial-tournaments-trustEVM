@@ -1,14 +1,17 @@
 /*
 SuperGaming Smart Contract
 
-It allows the storage of the data (sponsors, gamers & scores) for all the tournaments organised inside DFSocial Gaming platform,
-as well as make posible all the payments (entries payments, rewards distribution, token burns, team fees, buybacks & liquidity additions).
+This master contract allows the storage of all data (sponsors, gamers & scores) for all tournaments
+organised in the DFSocial Gaming platform, as well as enable the automation of all the payments (entry
+payments, rewards distribution, token burns, team fees, buybacks & liquidity additions).
 
-This contract is not deployed and must be updated before its deployment. It requires the existence of a TrustEVM's DEX in order to:
+This contract is not deployed and must be updated before its deployment on the TrustEVM Chain. 
+It requires the existence of a TrustEVM's DEX in order to:
 - Make swaps: selling and buying $DFSG (against $USDT and native chain token [$EOS])
 - Add liquidity to the pool $DFSG / $EOS
 - Get the current price of $DFSG
 */
+
 
 pragma solidity >=0.8.0;
 
