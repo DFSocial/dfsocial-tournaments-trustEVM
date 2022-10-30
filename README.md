@@ -18,3 +18,15 @@ This contract is not deployed and must be updated before its deployment. It requ
 - Min. amount to stake = 25,000 $DFSG
 - Lock period = 1 month
 - Claiming the rewards is available anytime.
+
+# BridgeDFSG_TrustEVM Smart Contract
+
+Used to convert DFSG in BNB Chain to DFSG in TrustEVM Chain.
+
+This contract is not deployed and must be updated before its deployment. 
+It requires the token address of $DFSG in TrustEVM Chain.
+
+- bDFS = $DFSG in BNB Chain
+- DFSG = $DFSG in TrustEVM CHain
+
+There is a 5% bonus for those brinding in a early phase.
